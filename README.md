@@ -1,4 +1,4 @@
-# Update WEbsite
+# Website Example
 Example Multi-module Maven application
 
- updates
+Just a test
