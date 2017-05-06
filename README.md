@@ -13,6 +13,7 @@ causing trouble
 
 > quotes
 
+stuff
 
 ```bash
 #!/bin/sh
@@ -20,3 +21,7 @@ if [ -f "file.txt" ]; then
   cp file.txt file2.txt
 fi
 ```
+
+| Header One     | Header Two     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
