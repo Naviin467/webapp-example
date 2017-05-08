@@ -8,7 +8,7 @@
   <parent>
 	  <groupId>clinic.programming.training</groupId>
 	  <artifactId>webapp-example-parent</artifactId>
-	  <version>1.3</version>
+	  <version>1.6</version>
   </parent>
 
   <artifactId>webapp-example-util</artifactId>
